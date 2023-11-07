@@ -2,7 +2,6 @@
 Designed active Discord bot designed for probability calculations, simulations, and more!
 
 <br>
-<br>
 
 **❌ Find commands the bottom of README file**
 
