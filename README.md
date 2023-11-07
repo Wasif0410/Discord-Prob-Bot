@@ -1,8 +1,6 @@
 # DiscordProbBot
 Designed active Discord bot designed for probability calculations, simulations, and more!
 
-<br>
-
 **❌ Instructions on how to add to your own discord server at bottom of README file**
 
 **❌ Find commands the bottom of README file**
